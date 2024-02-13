@@ -1,0 +1,88 @@
+{
+  "tabTip": "Pembayaran via Bank Sinarmas dapat dilakukan dengan mengikuti petunjuk ini:",
+  "detail": [
+    {
+      "title": "1. ATM",
+      "sub": [
+        {
+          "title": "1.1. Transaksi melalui ATM Bank Sinarmas",
+          "steps": [
+            "a. Pilih “Transfer”",
+            "b. Pilih “Rekening Bank Sinarmas”",
+            "c. Pilih “Rekening Nasabah Lain”",
+            "d. Masukkan Nomor Virtual Akun Bank Sinarmas; Contoh: 8212xxxxxxxxx",
+            "e. Masukkan jumlah nominal yang akan dibayarkan",
+            "f. Pastikan nama penerima dan jumlah sesuai dengan yang akan dibayarkan "
+          ]
+        },
+        {
+          "title": "1.2. Transaksi melalui (ATM Bersama, ALTO, Prima)",
+          "steps": [
+            "a. Masuk ke menu “Layanan Transfer”",
+            "b. Lalu pilih “Transfer Rek. Bank Lain”",
+            "c. Masukkan kode sandi Bank Sinarmas (153) terlebih dahulu",
+            "d. Masukkan 153 + Nomor Virtual Akun Bank Sinarmas; Contoh: 8212xxxxxxxxx",
+            "e. Masukkan jumlah nominal yang akan dibayarkan",
+            "f.  Pastikan nama penerima dan jumlah sesuai dengan yang akan dibayarkan"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Transfer",
+      "sub": [
+        {
+          "title": "2.1 Internet Banking",
+          "steps": [],
+          "sub": [
+            {
+              "title": "2.1.1 Transaksi melalui Bank Sinarmas",
+              "steps": [
+                "a. Pilih “Pembayaran/Pembelian”",
+                "b. Pilih “Virtual Account”",
+                "c. Masukkan Nomor Virtual Akun Bank Sinarmas pada; Contoh: 8212xxxxxxxxx",
+                "d. Masukkan jumlah nominal yang akan dibayarkan",
+                "e. Pastikan nama penerima dan jumlah sesuai dengan yang akan dibayarkan "
+              ]
+            },
+            {
+              "title": "2.1.2 Transaksi melalui Bank lain",
+              "steps": [
+                "a. No rekening Giro Bank Sinarmas; Contoh: 8212xxxxxxxxx",
+                "b. Nama pemegang rekening; Contoh: TOKOONDERDIL QQ ",
+                "c. Bank tujuan : Bank Sinarmas",
+                "d. Nominal pembayaran"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2. Teller melalui Bank Sinarmas",
+          "steps": [
+            "a. Sebutkan Nomor Virtual Akun Bank Sinarmas kepada petugas teller Bank Sinarmas",
+            "b. Pastikan nama penerima dan jumlah sesuai dengan yang akan dibayarkan",
+            "c. Transaksi selesai dan Anda akan menerima bukti bayar tagihan "
+          ]
+        },
+        {
+          "title": "2.3. Teller melalui LLG/RTGS Melalui Bank Lain",
+          "steps": [
+            "a. Isi nama penerima yaitu TOKOONDERDIL QQ",
+            "b. Isi bank tujuan yaitu Bank Sinarmas",
+            "c. Isi nomor tujuan yaitu Virtual Akun Bank Sinarmas Anda",
+            "d. Isi jumlah yang akan Anda bayarkan"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. Tunai",
+      "steps": [
+        "Setoran tunai melalui Cabang Bank Sinarmas",
+        "a. No rekening Giro Bank Sinarmas; Contoh: 8212xxxxxxxxx",
+        "b. Nama pemegang rekening; Contoh: TOKOONDERDIL QQ",
+        "c. Nominal pembayaran"
+      ]
+    }
+  ]
+}
