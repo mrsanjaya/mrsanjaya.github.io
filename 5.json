@@ -3,7 +3,6 @@
   "message": "success",
   "success": true,
   "code": 200,
-  "data":[],
   "detail": [
     {
       "title": "1. ATM",
