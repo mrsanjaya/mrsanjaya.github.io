@@ -1,6 +1,9 @@
 {
   "tabTip": "Pembayaran via Bank Sinarmas dapat dilakukan dengan mengikuti petunjuk ini:",
   "message": "success",
+  "success": true,
+  "code": 200,
+  "data":[],
   "detail": [
     {
       "title": "1. ATM",
