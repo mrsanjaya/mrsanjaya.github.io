@@ -1,0 +1,56 @@
+{
+  "tabTip": "Pembayaran via Bank Sinarmas dapat dilakukan dengan mengikuti petunjuk ini:",
+  "message": "success",
+  "success": true,
+  "code": 200,
+  "detail": [
+    {
+      "title": "Pembayaran BCA Virtual Account dengan ATM BCA",
+      "sub": [],
+      "steps": [
+        "1. Masukkan Kartu ATM BCA & PIN.",
+        "2. Pilih menu Transaksi Lainnya > Transfer > ke Rekening BCA Virtual Account.",
+        "3. Masukkan 5 angka kode perusahaan untuk Tokoonderdil (33330) dan Nomor HP yang kamu daftarkan di akun Tokoonderdil (Contoh: 33330081316951940).",
+        "4. Di halaman konfirmasi, pastikan detil pembayaran sudah sesuai seperti No VA, Nama, Perus/Produk dan Total Tagihan.",
+        "5. Pastikan nama kamu dan Total Tagihannya benar.",
+        "6. Jika sudah benar, klik Ya.",
+        "7. Simpan struk transaksi sebagai bukti pembayaran."
+      ]
+    },
+    {
+      "title": "Pembayaran BCA Virtual Account dengan mobile banking BCA (m-BCA)",
+      "sub": [],
+      "steps": [
+        "1. Lakukan log in pada aplikasi BCA Mobile.",
+        "2. Pilih menu m-BCA, kemudian masukkan kode akses m-BCA.",
+        "3. Pilih m-Transfer > BCA Virtual Account.",
+        "4. Pilih dari Daftar Transfer, atau masukkan 5 angka kode perusahaan untuk Tokoonderdil (33330) dan Nomor HP yang kamu daftarkan di akun Tokoonderdil (Contoh: 33330081316951940).",
+        "5. Pastikan nama kamu dan Total Tagihannya sudah benar.",
+        "6. Kemudian klik Ok dan masukkan pin m-BCA.",
+        "7. Pembayaran selesai. Simpan notifikasi yang muncul sebagai bukti pembayaran."
+      ]
+    },
+    {
+      "title": "Pembayaran BCA Virtual Account dengan KlikBCA Individual",
+      "sub":[],
+      "steps": [
+        "1. Lakukan log in pada aplikasi KlikBCA Individual (https://ibank.klikbca.com/).",
+        "2. Masukkan User ID dan PIN.",
+        "3. Pilih Transfer Dana > Transfer ke BCA Virtual Account.",
+        "4. Masukkan nomor BCA Virtual Account (33330) dan dan Nomor HP yang kamu daftarkan di akun Tokoonderdil (Contoh: 33330081316951940). Pastikan nama yang muncul dan Total Tagihannya benar.",
+        "5. Kalau sudah benar, klik Lanjutkan.",
+        "6. Cetak nomor referensi sebagai bukti transaksinya."
+      ]
+    },
+    {
+      "title": "Pembayaran BCA Virtual Account di Kantor Bank BCA ",
+      "sub":[],
+      "steps": [
+        "1. Ambil nomor antrian transaksi Teller dan isi slip setoran.",
+        "2. Serahkan slip dan jumlah setoran kepada Teller BCA.",
+        "3. Teller BCA akan melakukan validasi transaksi.",
+        "4. Simpan slip setoran hasil validasi sebagai bukti pembayaran."
+      ]
+    }
+  ]
+}
